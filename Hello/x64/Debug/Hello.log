@@ -1,0 +1,4 @@
+﻿  Hello.cpp
+C:\Users\Shalim\source\repos\Hello C++\Lessons 1\Hello\Hello.cpp(465,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Shalim\source\repos\Hello C++\Lessons 1\Hello\Hello.cpp(107,1): warning C4715: fib: значение возвращается не при всех путях выполнения
+  Hello.vcxproj -> C:\Users\Shalim\source\repos\Hello C++\Lessons 1\x64\Debug\Hello.exe
